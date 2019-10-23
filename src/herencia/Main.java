@@ -19,6 +19,8 @@ public class Main {
 		bronco bron=new bronco();
 		bron.setRepuesto(true);
 		
+		
+		
 		System.out.println(bron.isRepuesto());
 
 	}
