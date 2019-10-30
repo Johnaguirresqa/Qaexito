@@ -22,6 +22,8 @@ public class Main {
 		
 		
 		System.out.println(bron.isRepuesto());
+		System.out.println(mzd.getTransmision());
+		System.out.println("New Car");
 
 	}
 
