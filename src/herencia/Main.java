@@ -23,6 +23,8 @@ public class Main {
 		System.out.println("Cambio hecho por Aguirre");
 		System.out.println("Bye");
 		System.out.println(bron.isRepuesto());
+		System.out.println(mzd.getTransmision());
+		System.out.println("New Car");
 
 	}
 
