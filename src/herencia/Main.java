@@ -20,7 +20,8 @@ public class Main {
 		bron.setRepuesto(true);
 		
 		
-		
+		System.out.println("Cambio hecho por Aguirre");
+		System.out.println("Bye");
 		System.out.println(bron.isRepuesto());
 
 	}
