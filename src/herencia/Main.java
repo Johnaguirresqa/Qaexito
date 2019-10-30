@@ -6,7 +6,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		
 		mazda mzd= new mazda();
-		mzd.setColor("rojo");
+		mzd.setColor("azul");
 		mzd.setCilindraje("1200");
 		mzd.setPuerta(1);
 		mzd.setTransmision("Auto");
@@ -20,7 +20,8 @@ public class Main {
 		bron.setRepuesto(true);
 		
 		
-		
+		System.out.println("Cambio hecho por Aguirre");
+		System.out.println("Bye");
 		System.out.println(bron.isRepuesto());
 		System.out.println(mzd.getTransmision());
 		System.out.println("New Car");
