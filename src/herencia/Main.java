@@ -6,7 +6,11 @@ public class Main {
 		// TODO Auto-generated method stub
 		
 		mazda mzd= new mazda();
+<<<<<<< HEAD
 		mzd.setColor("azul");
+=======
+		mzd.setColor("naranja");
+>>>>>>> 0bda50fb4777a8517b7f16f035aa41ebb804299c
 		mzd.setCilindraje("1200");
 		mzd.setPuerta(1);
 		mzd.setTransmision("Auto");
